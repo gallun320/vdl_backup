@@ -1,0 +1,8 @@
+19.11 18:11:54 TRACE: battle.sendtask : cacheRequest exception { scores => [1,0], _type => vdl/cache.battle.setScores, player1 => 140, player2 => 19, battleId => 13 }
+19.11 18:11:54 TRACE: battle.sendtask : 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 437
+Called from modules/VDLBattleModule.hx line 413
+Called from modules/VDLBattleModule.hx line 64
+Called from modules/VDLBattleModule.hx line 42
+Called from snipe/slave/Server.hx line 1176

@@ -1,0 +1,91 @@
+19.11 17:01:04 TRACE: battle.sendtask : cacheRequest exception { scores => [2,0], _type => vdl/cache.battle.setScores, player1 => 19, player2 => 18, battleId => 8 }
+19.11 17:01:04 TRACE: battle.sendtask : 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 432
+Called from modules/VDLBattleModule.hx line 388
+Called from modules/VDLBattleModule.hx line 64
+Called from modules/VDLBattleModule.hx line 42
+Called from snipe/slave/Server.hx line 1176
+19.11 17:16:11 TRACE: logoutPost battle exception: cacheRequest exception { roomId => 0, _type => vdl/cache.battle.infoRoom }
+19.11 17:16:11 TRACE: 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 498
+Called from modules/VDLBattleModule.hx line 511
+Called from snipe/slave/Server.hx line 994
+19.11 17:20:43 TRACE: logoutPost battle exception: cacheRequest exception { roomId => 0, _type => vdl/cache.battle.infoRoom }
+19.11 17:20:43 TRACE: 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 498
+Called from modules/VDLBattleModule.hx line 511
+Called from snipe/slave/Server.hx line 994
+19.11 17:20:48 TRACE: logoutPost battle exception: cacheRequest exception { roomId => 0, _type => vdl/cache.battle.infoRoom }
+19.11 17:20:48 TRACE: 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 498
+Called from modules/VDLBattleModule.hx line 511
+Called from snipe/slave/Server.hx line 994
+19.11 17:20:57 TRACE: logoutPost battle exception: cacheRequest exception { roomId => 0, _type => vdl/cache.battle.infoRoom }
+19.11 17:20:57 TRACE: 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 498
+Called from modules/VDLBattleModule.hx line 511
+Called from snipe/slave/Server.hx line 994
+19.11 17:20:57 TRACE: User already logon.
+19.11 17:20:57 TRACE: 
+Called from snipe/slave/Server.hx line 870
+Called from snipe/slave/Server.hx line 1124
+19.11 17:20:57 TRACE: Could not login.
+19.11 17:20:57 TRACE: 
+Called from snipe/slave/Server.hx line 1151
+Called from snipe/slave/MetaServer.hx line 530
+Called from snipe/slave/ThreadServerModified.hx line 202
+19.11 17:24:40 TRACE: logoutPost battle exception: cacheRequest exception { roomId => 0, _type => vdl/cache.battle.infoRoom }
+19.11 17:24:40 TRACE: 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 500
+Called from modules/VDLBattleModule.hx line 513
+Called from snipe/slave/Server.hx line 994
+19.11 17:25:00 TRACE: logoutPost battle exception: cacheRequest exception { roomId => 0, _type => vdl/cache.battle.infoRoom }
+19.11 17:25:00 TRACE: 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 500
+Called from modules/VDLBattleModule.hx line 513
+Called from snipe/slave/Server.hx line 994
+19.11 17:26:16 TRACE: battle.sendtask : cacheRequest exception { scores => [2,0], _type => vdl/cache.battle.setScores, player1 => 140, player2 => 19, battleId => 9 }
+19.11 17:26:16 TRACE: battle.sendtask : 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 434
+Called from modules/VDLBattleModule.hx line 410
+Called from modules/VDLBattleModule.hx line 64
+Called from modules/VDLBattleModule.hx line 42
+Called from snipe/slave/Server.hx line 1176
+19.11 17:26:28 TRACE: logoutPost battle exception: cacheRequest exception { roomId => 0, _type => vdl/cache.battle.infoRoom }
+19.11 17:26:28 TRACE: 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 500
+Called from modules/VDLBattleModule.hx line 513
+Called from snipe/slave/Server.hx line 994
+19.11 17:51:07 TRACE: battle.sendtask : cacheRequest exception { scores => [1,0], _type => vdl/cache.battle.setScores, player1 => 19, player2 => 140, battleId => 10 }
+19.11 17:51:07 TRACE: battle.sendtask : 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 436
+Called from modules/VDLBattleModule.hx line 412
+Called from modules/VDLBattleModule.hx line 64
+Called from modules/VDLBattleModule.hx line 42
+Called from snipe/slave/Server.hx line 1176
+19.11 17:53:59 TRACE: battle.sendtask : cacheRequest exception { scores => [1,0], _type => vdl/cache.battle.setScores, player1 => 19, player2 => 140, battleId => 11 }
+19.11 17:53:59 TRACE: battle.sendtask : 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 436
+Called from modules/VDLBattleModule.hx line 412
+Called from modules/VDLBattleModule.hx line 64
+Called from modules/VDLBattleModule.hx line 42
+Called from snipe/slave/Server.hx line 1176
+19.11 17:56:09 TRACE: battle.sendtask : cacheRequest exception { scores => [1,0], _type => vdl/cache.battle.setScores, player1 => 19, player2 => 140, battleId => 12 }
+19.11 17:56:09 TRACE: battle.sendtask : 
+Called from snipe/slave/CacheConnection.hx line 199
+Called from modules/VDLBattleModule.hx line 436
+Called from modules/VDLBattleModule.hx line 412
+Called from modules/VDLBattleModule.hx line 64
+Called from modules/VDLBattleModule.hx line 42
+Called from snipe/slave/Server.hx line 1176

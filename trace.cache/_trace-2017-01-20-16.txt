@@ -1,0 +1,614 @@
+20.01 16:00:04 TRACE: Check step timer exception:
+20.01 16:00:04 TRACE: Invalid field access : response
+20.01 16:00:09 TRACE: Check step timer exception:
+20.01 16:00:09 TRACE: Invalid field access : response
+20.01 16:00:14 TRACE: Check step timer exception:
+20.01 16:00:14 TRACE: Invalid field access : response
+20.01 16:00:19 TRACE: Check step timer exception:
+20.01 16:00:19 TRACE: Invalid field access : response
+20.01 16:00:24 TRACE: Check step timer exception:
+20.01 16:00:24 TRACE: Invalid field access : response
+20.01 16:00:29 TRACE: Check step timer exception:
+20.01 16:00:29 TRACE: Invalid field access : response
+20.01 16:00:34 TRACE: Check step timer exception:
+20.01 16:00:34 TRACE: Invalid field access : response
+20.01 16:00:39 TRACE: Check step timer exception:
+20.01 16:00:39 TRACE: Invalid field access : response
+20.01 16:00:44 TRACE: Check step timer exception:
+20.01 16:00:44 TRACE: Invalid field access : response
+20.01 16:00:49 TRACE: Check step timer exception:
+20.01 16:00:49 TRACE: Invalid field access : response
+20.01 16:00:54 TRACE: Check step timer exception:
+20.01 16:00:54 TRACE: Invalid field access : response
+20.01 16:00:59 TRACE: Check step timer exception:
+20.01 16:00:59 TRACE: Invalid field access : response
+20.01 16:01:04 TRACE: Check step timer exception:
+20.01 16:01:04 TRACE: Invalid field access : response
+20.01 16:01:09 TRACE: Check step timer exception:
+20.01 16:01:09 TRACE: Invalid field access : response
+20.01 16:01:14 TRACE: Check step timer exception:
+20.01 16:01:14 TRACE: Invalid field access : response
+20.01 16:01:19 TRACE: Check step timer exception:
+20.01 16:01:19 TRACE: Invalid field access : response
+20.01 16:01:24 TRACE: Check step timer exception:
+20.01 16:01:24 TRACE: Invalid field access : response
+20.01 16:01:29 TRACE: Check step timer exception:
+20.01 16:01:29 TRACE: Invalid field access : response
+20.01 16:01:34 TRACE: Check step timer exception:
+20.01 16:01:34 TRACE: Invalid field access : response
+20.01 16:01:39 TRACE: Check step timer exception:
+20.01 16:01:39 TRACE: Invalid field access : response
+20.01 16:01:44 TRACE: Check step timer exception:
+20.01 16:01:44 TRACE: Invalid field access : response
+20.01 16:01:49 TRACE: Check step timer exception:
+20.01 16:01:49 TRACE: Invalid field access : response
+20.01 16:01:54 TRACE: Check step timer exception:
+20.01 16:01:54 TRACE: Invalid field access : response
+20.01 16:01:59 TRACE: Check step timer exception:
+20.01 16:01:59 TRACE: Invalid field access : response
+20.01 16:02:04 TRACE: Check step timer exception:
+20.01 16:02:04 TRACE: Invalid field access : response
+20.01 16:02:09 TRACE: Check step timer exception:
+20.01 16:02:09 TRACE: Invalid field access : response
+20.01 16:02:14 TRACE: Check step timer exception:
+20.01 16:02:14 TRACE: Invalid field access : response
+20.01 16:02:19 TRACE: Check step timer exception:
+20.01 16:02:19 TRACE: Invalid field access : response
+20.01 16:02:24 TRACE: Check step timer exception:
+20.01 16:02:24 TRACE: Invalid field access : response
+20.01 16:02:29 TRACE: Check step timer exception:
+20.01 16:02:29 TRACE: Invalid field access : response
+20.01 16:02:34 TRACE: Check step timer exception:
+20.01 16:02:34 TRACE: Invalid field access : response
+20.01 16:02:39 TRACE: Check step timer exception:
+20.01 16:02:39 TRACE: Invalid field access : response
+20.01 16:02:44 TRACE: Check step timer exception:
+20.01 16:02:44 TRACE: Invalid field access : response
+20.01 16:02:49 TRACE: Check step timer exception:
+20.01 16:02:49 TRACE: Invalid field access : response
+20.01 16:02:54 TRACE: Check step timer exception:
+20.01 16:02:54 TRACE: Invalid field access : response
+20.01 16:02:59 TRACE: Check step timer exception:
+20.01 16:02:59 TRACE: Invalid field access : response
+20.01 16:03:04 TRACE: Check step timer exception:
+20.01 16:03:04 TRACE: Invalid field access : response
+20.01 16:03:09 TRACE: Check step timer exception:
+20.01 16:03:09 TRACE: Invalid field access : response
+20.01 16:03:14 TRACE: Check step timer exception:
+20.01 16:03:14 TRACE: Invalid field access : response
+20.01 16:03:19 TRACE: Check step timer exception:
+20.01 16:03:19 TRACE: Invalid field access : response
+20.01 16:03:24 TRACE: Check step timer exception:
+20.01 16:03:24 TRACE: Invalid field access : response
+20.01 16:03:29 TRACE: Check step timer exception:
+20.01 16:03:29 TRACE: Invalid field access : response
+20.01 16:03:34 TRACE: Check step timer exception:
+20.01 16:03:34 TRACE: Invalid field access : response
+20.01 16:03:39 TRACE: Check step timer exception:
+20.01 16:03:39 TRACE: Invalid field access : response
+20.01 16:03:44 TRACE: Check step timer exception:
+20.01 16:03:44 TRACE: Invalid field access : response
+20.01 16:03:49 TRACE: Check step timer exception:
+20.01 16:03:49 TRACE: Invalid field access : response
+20.01 16:03:54 TRACE: Check step timer exception:
+20.01 16:03:54 TRACE: Invalid field access : response
+20.01 16:03:59 TRACE: Check step timer exception:
+20.01 16:03:59 TRACE: Invalid field access : response
+20.01 16:04:04 TRACE: Check step timer exception:
+20.01 16:04:04 TRACE: Invalid field access : response
+20.01 16:04:09 TRACE: Check step timer exception:
+20.01 16:04:09 TRACE: Invalid field access : response
+20.01 16:04:14 TRACE: Check step timer exception:
+20.01 16:04:14 TRACE: Invalid field access : response
+20.01 16:04:19 TRACE: Check step timer exception:
+20.01 16:04:19 TRACE: Invalid field access : response
+20.01 16:04:24 TRACE: Check step timer exception:
+20.01 16:04:24 TRACE: Invalid field access : response
+20.01 16:04:29 TRACE: Check step timer exception:
+20.01 16:04:29 TRACE: Invalid field access : response
+20.01 16:04:34 TRACE: Check step timer exception:
+20.01 16:04:34 TRACE: Invalid field access : response
+20.01 16:04:39 TRACE: Check step timer exception:
+20.01 16:04:39 TRACE: Invalid field access : response
+20.01 16:04:44 TRACE: Check step timer exception:
+20.01 16:04:44 TRACE: Invalid field access : response
+20.01 16:04:49 TRACE: Check step timer exception:
+20.01 16:04:49 TRACE: Invalid field access : response
+20.01 16:04:54 TRACE: Check step timer exception:
+20.01 16:04:54 TRACE: Invalid field access : response
+20.01 16:04:59 TRACE: Check step timer exception:
+20.01 16:04:59 TRACE: Invalid field access : response
+20.01 16:05:04 TRACE: Check step timer exception:
+20.01 16:05:04 TRACE: Invalid field access : response
+20.01 16:05:09 TRACE: Check step timer exception:
+20.01 16:05:09 TRACE: Invalid field access : response
+20.01 16:05:14 TRACE: Check step timer exception:
+20.01 16:05:14 TRACE: Invalid field access : response
+20.01 16:05:19 TRACE: Check step timer exception:
+20.01 16:05:19 TRACE: Invalid field access : response
+20.01 16:05:24 TRACE: Check step timer exception:
+20.01 16:05:24 TRACE: Invalid field access : response
+20.01 16:05:29 TRACE: Check step timer exception:
+20.01 16:05:29 TRACE: Invalid field access : response
+20.01 16:05:34 TRACE: Check step timer exception:
+20.01 16:05:34 TRACE: Invalid field access : response
+20.01 16:05:39 TRACE: Check step timer exception:
+20.01 16:05:39 TRACE: Invalid field access : response
+20.01 16:05:44 TRACE: Check step timer exception:
+20.01 16:05:44 TRACE: Invalid field access : response
+20.01 16:05:49 TRACE: Check step timer exception:
+20.01 16:05:49 TRACE: Invalid field access : response
+20.01 16:05:54 TRACE: vdl/cache.battle.infoRoom : Invalid field access : get
+20.01 16:05:54 TRACE: vdl/cache.battle.infoRoom : 
+Called from modules/VDLCache.hx line 233
+Called from modules/VDLCache.hx line 226
+Called from modules/VDLCache.hx line 163
+Called from snipe/cache/CacheServer.hx line 487
+20.01 16:05:54 TRACE: Check step timer exception:
+20.01 16:05:54 TRACE: Invalid field access : response
+20.01 16:05:59 TRACE: Check step timer exception:
+20.01 16:05:59 TRACE: Invalid field access : response
+20.01 16:06:04 TRACE: Check step timer exception:
+20.01 16:06:04 TRACE: Invalid field access : response
+20.01 16:06:09 TRACE: Check step timer exception:
+20.01 16:06:09 TRACE: Invalid field access : response
+20.01 16:06:14 TRACE: Check step timer exception:
+20.01 16:06:14 TRACE: Invalid field access : response
+20.01 16:06:19 TRACE: Check step timer exception:
+20.01 16:06:19 TRACE: Invalid field access : response
+20.01 16:06:24 TRACE: Check step timer exception:
+20.01 16:06:24 TRACE: Invalid field access : response
+20.01 16:06:29 TRACE: Check step timer exception:
+20.01 16:06:29 TRACE: Invalid field access : response
+20.01 16:06:34 TRACE: Check step timer exception:
+20.01 16:06:34 TRACE: Invalid field access : response
+20.01 16:06:39 TRACE: Check step timer exception:
+20.01 16:06:39 TRACE: Invalid field access : response
+20.01 16:06:44 TRACE: Check step timer exception:
+20.01 16:06:44 TRACE: Invalid field access : response
+20.01 16:06:49 TRACE: Check step timer exception:
+20.01 16:06:49 TRACE: Invalid field access : response
+20.01 16:06:54 TRACE: Check step timer exception:
+20.01 16:06:54 TRACE: Invalid field access : response
+20.01 16:06:59 TRACE: Check step timer exception:
+20.01 16:06:59 TRACE: Invalid field access : response
+20.01 16:07:04 TRACE: Check step timer exception:
+20.01 16:07:04 TRACE: Invalid field access : response
+20.01 16:07:09 TRACE: Check step timer exception:
+20.01 16:07:09 TRACE: Invalid field access : response
+20.01 16:07:14 TRACE: Check step timer exception:
+20.01 16:07:14 TRACE: Invalid field access : response
+20.01 16:07:19 TRACE: Check step timer exception:
+20.01 16:07:19 TRACE: Invalid field access : response
+20.01 16:07:25 TRACE: Check step timer exception:
+20.01 16:07:25 TRACE: Invalid field access : response
+20.01 16:07:30 TRACE: Check step timer exception:
+20.01 16:07:30 TRACE: Invalid field access : response
+20.01 16:07:35 TRACE: Check step timer exception:
+20.01 16:07:35 TRACE: Invalid field access : response
+20.01 16:07:40 TRACE: Check step timer exception:
+20.01 16:07:40 TRACE: Invalid field access : response
+20.01 16:07:45 TRACE: Check step timer exception:
+20.01 16:07:45 TRACE: Invalid field access : response
+20.01 16:07:50 TRACE: Check step timer exception:
+20.01 16:07:50 TRACE: Invalid field access : response
+20.01 16:07:55 TRACE: Check step timer exception:
+20.01 16:07:55 TRACE: Invalid field access : response
+20.01 16:08:00 TRACE: Check step timer exception:
+20.01 16:08:00 TRACE: Invalid field access : response
+20.01 16:08:05 TRACE: Check step timer exception:
+20.01 16:08:05 TRACE: Invalid field access : response
+20.01 16:08:10 TRACE: Check step timer exception:
+20.01 16:08:10 TRACE: Invalid field access : response
+20.01 16:08:15 TRACE: Check step timer exception:
+20.01 16:08:15 TRACE: Invalid field access : response
+20.01 16:08:20 TRACE: Check step timer exception:
+20.01 16:08:20 TRACE: Invalid field access : response
+20.01 16:08:25 TRACE: Check step timer exception:
+20.01 16:08:25 TRACE: Invalid field access : response
+20.01 16:08:30 TRACE: Check step timer exception:
+20.01 16:08:30 TRACE: Invalid field access : response
+20.01 16:08:35 TRACE: Check step timer exception:
+20.01 16:08:35 TRACE: Invalid field access : response
+20.01 16:08:40 TRACE: Check step timer exception:
+20.01 16:08:40 TRACE: Invalid field access : response
+20.01 16:08:45 TRACE: Check step timer exception:
+20.01 16:08:45 TRACE: Invalid field access : response
+20.01 16:08:50 TRACE: Check step timer exception:
+20.01 16:08:50 TRACE: Invalid field access : response
+20.01 16:08:55 TRACE: Check step timer exception:
+20.01 16:08:55 TRACE: Invalid field access : response
+20.01 16:08:57 TRACE: vdl/cache.battle.infoRoom : Invalid field access : get
+20.01 16:08:57 TRACE: vdl/cache.battle.infoRoom : 
+Called from modules/VDLCache.hx line 233
+Called from modules/VDLCache.hx line 226
+Called from modules/VDLCache.hx line 163
+Called from snipe/cache/CacheServer.hx line 487
+20.01 16:09:00 TRACE: Check step timer exception:
+20.01 16:09:00 TRACE: Invalid field access : response
+20.01 16:09:05 TRACE: Check step timer exception:
+20.01 16:09:05 TRACE: Invalid field access : response
+20.01 16:09:10 TRACE: Check step timer exception:
+20.01 16:09:10 TRACE: Invalid field access : response
+20.01 16:09:15 TRACE: Check step timer exception:
+20.01 16:09:15 TRACE: Invalid field access : response
+20.01 16:09:20 TRACE: Check step timer exception:
+20.01 16:09:20 TRACE: Invalid field access : response
+20.01 16:09:22 TRACE: vdl/cache.battle.infoRoom : Invalid field access : get
+20.01 16:09:22 TRACE: vdl/cache.battle.infoRoom : 
+Called from modules/VDLCache.hx line 233
+Called from modules/VDLCache.hx line 226
+Called from modules/VDLCache.hx line 163
+Called from snipe/cache/CacheServer.hx line 487
+20.01 16:09:25 TRACE: Check step timer exception:
+20.01 16:09:25 TRACE: Invalid field access : response
+20.01 16:09:30 TRACE: Check step timer exception:
+20.01 16:09:30 TRACE: Invalid field access : response
+20.01 16:09:35 TRACE: Check step timer exception:
+20.01 16:09:35 TRACE: Invalid field access : response
+20.01 16:09:40 TRACE: Check step timer exception:
+20.01 16:09:40 TRACE: Invalid field access : response
+20.01 16:09:45 TRACE: Check step timer exception:
+20.01 16:09:45 TRACE: Invalid field access : response
+20.01 16:09:50 TRACE: Check step timer exception:
+20.01 16:09:50 TRACE: Invalid field access : response
+20.01 16:09:55 TRACE: Check step timer exception:
+20.01 16:09:55 TRACE: Invalid field access : response
+20.01 16:09:56 TRACE: vdl/cache.battle.infoRoom : Invalid field access : get
+20.01 16:09:56 TRACE: vdl/cache.battle.infoRoom : 
+Called from modules/VDLCache.hx line 233
+Called from modules/VDLCache.hx line 226
+Called from modules/VDLCache.hx line 163
+Called from snipe/cache/CacheServer.hx line 487
+20.01 16:10:00 TRACE: Check step timer exception:
+20.01 16:10:00 TRACE: Invalid field access : response
+20.01 16:10:05 TRACE: Check step timer exception:
+20.01 16:10:05 TRACE: Invalid field access : response
+20.01 16:10:10 TRACE: Check step timer exception:
+20.01 16:10:10 TRACE: Invalid field access : response
+20.01 16:10:15 TRACE: Check step timer exception:
+20.01 16:10:15 TRACE: Invalid field access : response
+20.01 16:10:20 TRACE: Check step timer exception:
+20.01 16:10:20 TRACE: Invalid field access : response
+20.01 16:10:25 TRACE: Check step timer exception:
+20.01 16:10:25 TRACE: Invalid field access : response
+20.01 16:10:30 TRACE: Check step timer exception:
+20.01 16:10:30 TRACE: Invalid field access : response
+20.01 16:10:35 TRACE: Check step timer exception:
+20.01 16:10:35 TRACE: Invalid field access : response
+20.01 16:10:40 TRACE: Check step timer exception:
+20.01 16:10:40 TRACE: Invalid field access : response
+20.01 16:10:45 TRACE: Check step timer exception:
+20.01 16:10:45 TRACE: Invalid field access : response
+20.01 16:10:50 TRACE: Check step timer exception:
+20.01 16:10:50 TRACE: Invalid field access : response
+20.01 16:10:55 TRACE: Check step timer exception:
+20.01 16:10:55 TRACE: Invalid field access : response
+20.01 16:10:55 TRACE: Check round timer exception:
+20.01 16:10:55 TRACE: Invalid field access : player1
+20.01 16:11:00 TRACE: Check step timer exception:
+20.01 16:11:00 TRACE: Invalid field access : response
+20.01 16:11:05 TRACE: Check step timer exception:
+20.01 16:11:05 TRACE: Invalid field access : response
+20.01 16:11:10 TRACE: Check step timer exception:
+20.01 16:11:10 TRACE: Invalid field access : response
+20.01 16:11:15 TRACE: Check step timer exception:
+20.01 16:11:15 TRACE: Invalid field access : response
+20.01 16:11:20 TRACE: Check step timer exception:
+20.01 16:11:20 TRACE: Invalid field access : response
+20.01 16:11:25 TRACE: Check step timer exception:
+20.01 16:11:25 TRACE: Invalid field access : response
+20.01 16:11:30 TRACE: Check step timer exception:
+20.01 16:11:30 TRACE: Invalid field access : response
+20.01 16:11:35 TRACE: Check step timer exception:
+20.01 16:11:35 TRACE: Invalid field access : response
+20.01 16:11:40 TRACE: Check step timer exception:
+20.01 16:11:40 TRACE: Invalid field access : response
+20.01 16:11:45 TRACE: Check step timer exception:
+20.01 16:11:45 TRACE: Invalid field access : response
+20.01 16:11:50 TRACE: Check step timer exception:
+20.01 16:11:50 TRACE: Invalid field access : response
+20.01 16:11:55 TRACE: Check step timer exception:
+20.01 16:11:55 TRACE: Invalid field access : response
+20.01 16:11:55 TRACE: Check round timer exception:
+20.01 16:11:55 TRACE: Invalid field access : player1
+20.01 16:12:00 TRACE: Check step timer exception:
+20.01 16:12:00 TRACE: Invalid field access : response
+20.01 16:12:55 TRACE: Check round timer exception:
+20.01 16:12:55 TRACE: Invalid field access : player1
+20.01 16:13:55 TRACE: Check round timer exception:
+20.01 16:13:55 TRACE: Invalid field access : player1
+20.01 16:14:55 TRACE: Check round timer exception:
+20.01 16:14:55 TRACE: Invalid field access : player1
+20.01 16:17:27 TRACE: Check round timer exception:
+20.01 16:17:27 TRACE: Invalid field access : player1
+20.01 16:19:27 TRACE: Check round timer exception:
+20.01 16:19:27 TRACE: Invalid field access : player1
+20.01 16:20:27 TRACE: Check round timer exception:
+20.01 16:20:27 TRACE: Invalid field access : player1
+20.01 16:21:27 TRACE: Check round timer exception:
+20.01 16:21:27 TRACE: Invalid field access : player1
+20.01 16:30:57 TRACE: Check step timer exception:
+20.01 16:30:57 TRACE: Invalid field access : response
+20.01 16:31:02 TRACE: Check step timer exception:
+20.01 16:31:02 TRACE: Invalid field access : response
+20.01 16:31:07 TRACE: Check step timer exception:
+20.01 16:31:07 TRACE: Invalid field access : response
+20.01 16:31:12 TRACE: Check step timer exception:
+20.01 16:31:12 TRACE: Invalid field access : response
+20.01 16:31:17 TRACE: Check step timer exception:
+20.01 16:31:17 TRACE: Invalid field access : response
+20.01 16:31:22 TRACE: Check step timer exception:
+20.01 16:31:22 TRACE: Invalid field access : response
+20.01 16:31:27 TRACE: Check step timer exception:
+20.01 16:31:27 TRACE: Invalid field access : response
+20.01 16:31:27 TRACE: Check round timer exception:
+20.01 16:31:27 TRACE: Invalid field access : player1
+20.01 16:31:32 TRACE: Check step timer exception:
+20.01 16:31:32 TRACE: Invalid field access : response
+20.01 16:31:37 TRACE: Check step timer exception:
+20.01 16:31:37 TRACE: Invalid field access : response
+20.01 16:31:42 TRACE: Check step timer exception:
+20.01 16:31:43 TRACE: Invalid field access : response
+20.01 16:31:48 TRACE: Check step timer exception:
+20.01 16:31:48 TRACE: Invalid field access : response
+20.01 16:31:53 TRACE: Check step timer exception:
+20.01 16:31:53 TRACE: Invalid field access : response
+20.01 16:31:58 TRACE: Check step timer exception:
+20.01 16:31:58 TRACE: Invalid field access : response
+20.01 16:32:03 TRACE: Check step timer exception:
+20.01 16:32:03 TRACE: Invalid field access : response
+20.01 16:32:08 TRACE: Check step timer exception:
+20.01 16:32:08 TRACE: Invalid field access : response
+20.01 16:32:13 TRACE: Check step timer exception:
+20.01 16:32:13 TRACE: Invalid field access : response
+20.01 16:32:18 TRACE: Check step timer exception:
+20.01 16:32:18 TRACE: Invalid field access : response
+20.01 16:39:01 TRACE: Check step timer exception:
+20.01 16:39:01 TRACE: Invalid field access : response
+20.01 16:39:06 TRACE: Check step timer exception:
+20.01 16:39:06 TRACE: Invalid field access : response
+20.01 16:39:11 TRACE: Check step timer exception:
+20.01 16:39:11 TRACE: Invalid field access : response
+20.01 16:39:16 TRACE: Check step timer exception:
+20.01 16:39:16 TRACE: Invalid field access : response
+20.01 16:39:21 TRACE: Check step timer exception:
+20.01 16:39:21 TRACE: Invalid field access : response
+20.01 16:39:26 TRACE: Check step timer exception:
+20.01 16:39:26 TRACE: Invalid field access : response
+20.01 16:39:31 TRACE: Check step timer exception:
+20.01 16:39:31 TRACE: Invalid field access : response
+20.01 16:39:36 TRACE: Check step timer exception:
+20.01 16:39:36 TRACE: Invalid field access : response
+20.01 16:39:36 TRACE: Check round timer exception:
+20.01 16:39:36 TRACE: Invalid field access : player1
+20.01 16:39:41 TRACE: Check step timer exception:
+20.01 16:39:41 TRACE: Invalid field access : response
+20.01 16:39:46 TRACE: Check step timer exception:
+20.01 16:39:46 TRACE: Invalid field access : response
+20.01 16:39:51 TRACE: Check step timer exception:
+20.01 16:39:51 TRACE: Invalid field access : response
+20.01 16:39:56 TRACE: Check step timer exception:
+20.01 16:39:56 TRACE: Invalid field access : response
+20.01 16:40:01 TRACE: Check step timer exception:
+20.01 16:40:01 TRACE: Invalid field access : response
+20.01 16:40:06 TRACE: Check step timer exception:
+20.01 16:40:06 TRACE: Invalid field access : response
+20.01 16:40:11 TRACE: Check step timer exception:
+20.01 16:40:11 TRACE: Invalid field access : response
+20.01 16:40:16 TRACE: Check step timer exception:
+20.01 16:40:16 TRACE: Invalid field access : response
+20.01 16:40:21 TRACE: Check step timer exception:
+20.01 16:40:21 TRACE: Invalid field access : response
+20.01 16:40:26 TRACE: Check step timer exception:
+20.01 16:40:26 TRACE: Invalid field access : response
+20.01 16:40:31 TRACE: Check step timer exception:
+20.01 16:40:31 TRACE: Invalid field access : response
+20.01 16:40:36 TRACE: Check step timer exception:
+20.01 16:40:36 TRACE: Invalid field access : response
+20.01 16:40:36 TRACE: Check round timer exception:
+20.01 16:40:36 TRACE: Invalid field access : player1
+20.01 16:40:41 TRACE: Check step timer exception:
+20.01 16:40:41 TRACE: Invalid field access : response
+20.01 16:40:46 TRACE: Check step timer exception:
+20.01 16:40:46 TRACE: Invalid field access : response
+20.01 16:40:55 TRACE: Check step timer exception:
+20.01 16:40:55 TRACE: Invalid field access : response
+20.01 16:41:00 TRACE: Check step timer exception:
+20.01 16:41:00 TRACE: Invalid field access : response
+20.01 16:41:05 TRACE: Check step timer exception:
+20.01 16:41:05 TRACE: Invalid field access : response
+20.01 16:41:10 TRACE: Check step timer exception:
+20.01 16:41:10 TRACE: Invalid field access : response
+20.01 16:41:15 TRACE: Check step timer exception:
+20.01 16:41:15 TRACE: Invalid field access : response
+20.01 16:41:20 TRACE: Check step timer exception:
+20.01 16:41:20 TRACE: Invalid field access : response
+20.01 16:41:25 TRACE: Check step timer exception:
+20.01 16:41:25 TRACE: Invalid field access : response
+20.01 16:41:30 TRACE: Check step timer exception:
+20.01 16:41:30 TRACE: Invalid field access : response
+20.01 16:41:35 TRACE: Check step timer exception:
+20.01 16:41:35 TRACE: Invalid field access : response
+20.01 16:41:40 TRACE: Check step timer exception:
+20.01 16:41:40 TRACE: Invalid field access : response
+20.01 16:41:45 TRACE: Check step timer exception:
+20.01 16:41:45 TRACE: Invalid field access : response
+20.01 16:41:50 TRACE: Check step timer exception:
+20.01 16:41:50 TRACE: Invalid field access : response
+20.01 16:41:50 TRACE: Check round timer exception:
+20.01 16:41:50 TRACE: Invalid field access : player1
+20.01 16:41:55 TRACE: Check step timer exception:
+20.01 16:41:55 TRACE: Invalid field access : response
+20.01 16:42:49 TRACE: Check step timer exception:
+20.01 16:42:49 TRACE: Invalid field access : response
+20.01 16:42:54 TRACE: Check step timer exception:
+20.01 16:42:54 TRACE: Invalid field access : response
+20.01 16:42:59 TRACE: Check step timer exception:
+20.01 16:42:59 TRACE: Invalid field access : response
+20.01 16:43:04 TRACE: Check step timer exception:
+20.01 16:43:04 TRACE: Invalid field access : response
+20.01 16:43:29 TRACE: Check step timer exception:
+20.01 16:43:29 TRACE: Invalid field access : response
+20.01 16:43:34 TRACE: Check step timer exception:
+20.01 16:43:34 TRACE: Invalid field access : response
+20.01 16:43:39 TRACE: Check step timer exception:
+20.01 16:43:39 TRACE: Invalid field access : response
+20.01 16:43:44 TRACE: Check step timer exception:
+20.01 16:43:44 TRACE: Invalid field access : response
+20.01 16:43:49 TRACE: Check step timer exception:
+20.01 16:43:49 TRACE: Invalid field access : response
+20.01 16:43:54 TRACE: Check step timer exception:
+20.01 16:43:54 TRACE: Invalid field access : response
+20.01 16:43:59 TRACE: Check step timer exception:
+20.01 16:43:59 TRACE: Invalid field access : response
+20.01 16:44:04 TRACE: Check step timer exception:
+20.01 16:44:04 TRACE: Invalid field access : response
+20.01 16:44:09 TRACE: Check step timer exception:
+20.01 16:44:09 TRACE: Invalid field access : response
+20.01 16:44:14 TRACE: Check step timer exception:
+20.01 16:44:14 TRACE: Invalid field access : response
+20.01 16:44:19 TRACE: Check step timer exception:
+20.01 16:44:19 TRACE: Invalid field access : response
+20.01 16:44:24 TRACE: Check step timer exception:
+20.01 16:44:24 TRACE: Invalid field access : response
+20.01 16:44:24 TRACE: Check round timer exception:
+20.01 16:44:24 TRACE: Invalid field access : player1
+20.01 16:44:29 TRACE: Check step timer exception:
+20.01 16:44:29 TRACE: Invalid field access : response
+20.01 16:44:34 TRACE: Check step timer exception:
+20.01 16:44:34 TRACE: Invalid field access : response
+20.01 16:44:39 TRACE: Check step timer exception:
+20.01 16:44:39 TRACE: Invalid field access : response
+20.01 16:44:44 TRACE: Check step timer exception:
+20.01 16:44:44 TRACE: Invalid field access : response
+20.01 16:44:49 TRACE: Check step timer exception:
+20.01 16:44:49 TRACE: Invalid field access : response
+20.01 16:44:54 TRACE: Check step timer exception:
+20.01 16:44:54 TRACE: Invalid field access : response
+20.01 16:44:59 TRACE: Check step timer exception:
+20.01 16:44:59 TRACE: Invalid field access : response
+20.01 16:45:04 TRACE: Check step timer exception:
+20.01 16:45:04 TRACE: Invalid field access : response
+20.01 16:45:09 TRACE: Check step timer exception:
+20.01 16:45:09 TRACE: Invalid field access : response
+20.01 16:45:14 TRACE: Check step timer exception:
+20.01 16:45:14 TRACE: Invalid field access : response
+20.01 16:45:19 TRACE: Check step timer exception:
+20.01 16:45:19 TRACE: Invalid field access : response
+20.01 16:45:24 TRACE: Check step timer exception:
+20.01 16:45:24 TRACE: Invalid field access : response
+20.01 16:45:24 TRACE: Check round timer exception:
+20.01 16:45:24 TRACE: Invalid field access : player1
+20.01 16:45:29 TRACE: Check step timer exception:
+20.01 16:45:29 TRACE: Invalid field access : response
+20.01 16:45:34 TRACE: Check step timer exception:
+20.01 16:45:34 TRACE: Invalid field access : response
+20.01 16:45:39 TRACE: Check step timer exception:
+20.01 16:45:39 TRACE: Invalid field access : response
+20.01 16:45:44 TRACE: Check step timer exception:
+20.01 16:45:44 TRACE: Invalid field access : response
+20.01 16:45:49 TRACE: Check step timer exception:
+20.01 16:45:49 TRACE: Invalid field access : response
+20.01 16:45:54 TRACE: Check step timer exception:
+20.01 16:45:54 TRACE: Invalid field access : response
+20.01 16:45:59 TRACE: Check step timer exception:
+20.01 16:45:59 TRACE: Invalid field access : response
+20.01 16:46:04 TRACE: Check step timer exception:
+20.01 16:46:04 TRACE: Invalid field access : response
+20.01 16:46:09 TRACE: Check step timer exception:
+20.01 16:46:09 TRACE: Invalid field access : response
+20.01 16:46:14 TRACE: Check step timer exception:
+20.01 16:46:14 TRACE: Invalid field access : response
+20.01 16:46:19 TRACE: Check step timer exception:
+20.01 16:46:19 TRACE: Invalid field access : response
+20.01 16:46:24 TRACE: Check step timer exception:
+20.01 16:46:24 TRACE: Invalid field access : response
+20.01 16:46:24 TRACE: Check round timer exception:
+20.01 16:46:24 TRACE: Invalid field access : player1
+20.01 16:46:29 TRACE: Check step timer exception:
+20.01 16:46:29 TRACE: Invalid field access : response
+20.01 16:46:34 TRACE: Check step timer exception:
+20.01 16:46:34 TRACE: Invalid field access : response
+20.01 16:46:39 TRACE: Check step timer exception:
+20.01 16:46:39 TRACE: Invalid field access : response
+20.01 16:46:44 TRACE: Check step timer exception:
+20.01 16:46:44 TRACE: Invalid field access : response
+20.01 16:46:49 TRACE: Check step timer exception:
+20.01 16:46:49 TRACE: Invalid field access : response
+20.01 16:46:54 TRACE: Check step timer exception:
+20.01 16:46:54 TRACE: Invalid field access : response
+20.01 16:46:59 TRACE: Check step timer exception:
+20.01 16:46:59 TRACE: Invalid field access : response
+20.01 16:47:04 TRACE: Check step timer exception:
+20.01 16:47:04 TRACE: Invalid field access : response
+20.01 16:47:09 TRACE: Check step timer exception:
+20.01 16:47:09 TRACE: Invalid field access : response
+20.01 16:47:14 TRACE: Check step timer exception:
+20.01 16:47:14 TRACE: Invalid field access : response
+20.01 16:47:19 TRACE: Check step timer exception:
+20.01 16:47:19 TRACE: Invalid field access : response
+20.01 16:47:24 TRACE: Check step timer exception:
+20.01 16:47:24 TRACE: Invalid field access : response
+20.01 16:47:24 TRACE: Check round timer exception:
+20.01 16:47:24 TRACE: Invalid field access : player1
+20.01 16:47:29 TRACE: Check step timer exception:
+20.01 16:47:29 TRACE: Invalid field access : response
+20.01 16:47:34 TRACE: Check step timer exception:
+20.01 16:47:34 TRACE: Invalid field access : response
+20.01 16:47:39 TRACE: Check step timer exception:
+20.01 16:47:39 TRACE: Invalid field access : response
+20.01 16:47:44 TRACE: Check step timer exception:
+20.01 16:47:44 TRACE: Invalid field access : response
+20.01 16:47:49 TRACE: Check step timer exception:
+20.01 16:47:49 TRACE: Invalid field access : response
+20.01 16:47:54 TRACE: Check step timer exception:
+20.01 16:47:54 TRACE: Invalid field access : response
+20.01 16:47:59 TRACE: Check step timer exception:
+20.01 16:47:59 TRACE: Invalid field access : response
+20.01 16:48:04 TRACE: Check step timer exception:
+20.01 16:48:04 TRACE: Invalid field access : response
+20.01 16:48:09 TRACE: Check step timer exception:
+20.01 16:48:09 TRACE: Invalid field access : response
+20.01 16:48:14 TRACE: Check step timer exception:
+20.01 16:48:14 TRACE: Invalid field access : response
+20.01 16:48:19 TRACE: Check step timer exception:
+20.01 16:48:19 TRACE: Invalid field access : response
+20.01 16:48:43 TRACE: Check step timer exception:
+20.01 16:48:43 TRACE: Invalid field access : response
+20.01 16:48:48 TRACE: Check step timer exception:
+20.01 16:48:48 TRACE: Invalid field access : response
+20.01 16:48:58 TRACE: Check step timer exception:
+20.01 16:48:58 TRACE: Invalid field access : response
+20.01 16:49:08 TRACE: Check step timer exception:
+20.01 16:49:08 TRACE: Invalid field access : response
+20.01 16:49:18 TRACE: Check step timer exception:
+20.01 16:49:18 TRACE: Invalid field access : response
+20.01 16:49:28 TRACE: Check step timer exception:
+20.01 16:49:28 TRACE: Invalid field access : response
+20.01 16:49:38 TRACE: Check step timer exception:
+20.01 16:49:38 TRACE: Invalid field access : response
+20.01 16:49:38 TRACE: Check round timer exception:
+20.01 16:49:38 TRACE: Invalid field access : player1
+20.01 16:49:48 TRACE: Check step timer exception:
+20.01 16:49:48 TRACE: Invalid field access : response
+20.01 16:49:58 TRACE: Check step timer exception:
+20.01 16:49:58 TRACE: Invalid field access : response
+20.01 16:50:08 TRACE: Check step timer exception:
+20.01 16:50:08 TRACE: Invalid field access : response
+20.01 16:50:18 TRACE: Check step timer exception:
+20.01 16:50:18 TRACE: Invalid field access : response
+20.01 16:50:28 TRACE: Check step timer exception:
+20.01 16:50:28 TRACE: Invalid field access : response
+20.01 16:50:38 TRACE: Check step timer exception:
+20.01 16:50:38 TRACE: Invalid field access : response
+20.01 16:50:38 TRACE: Check round timer exception:
+20.01 16:50:38 TRACE: Invalid field access : player1
+20.01 16:50:43 TRACE: Check step timer exception:
+20.01 16:50:43 TRACE: Invalid field access : response
+20.01 16:50:53 TRACE: Check step timer exception:
+20.01 16:50:53 TRACE: Invalid field access : response
+20.01 16:51:03 TRACE: Check step timer exception:
+20.01 16:51:03 TRACE: Invalid field access : response
+20.01 16:51:13 TRACE: Check step timer exception:
+20.01 16:51:13 TRACE: Invalid field access : response
